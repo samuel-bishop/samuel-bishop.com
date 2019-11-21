@@ -11,4 +11,5 @@ This project is closed to contributions from other people.
 Samuel Bishop
 ## Project Status
 The website is intended as a living document, and should reflect my current information.
-## Last Updated: 11/20/2019
+## Last Updated
+11/20/2019
